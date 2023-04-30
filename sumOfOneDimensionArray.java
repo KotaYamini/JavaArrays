@@ -6,7 +6,12 @@ public class sumOfOneDimensionArray {
 
         int N = scn.nextInt();
         int[] arr = new int[N];
+
+        for(int i=0; i<N; i++) {
+            arr[i] = scn.nextInt();
+        }
         int sum = 0;
+
         for(int i=0; i<N; i++){
             sum =  sum + arr[i];
         }
