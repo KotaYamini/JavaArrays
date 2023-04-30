@@ -9,11 +9,7 @@ public class MaxAndMinofAnArray {
 
         Scanner scn = new Scanner(System.in);
         int N = scn.nextInt();
-<<<<<<< HEAD
-        int A[] = new int[N];
-=======
         int[] A = new int[N];
->>>>>>> b57b07f (staticSumof1Darray)
 
         for(int i=0; i<A.length; i++){
             A[i] = scn.nextInt();
