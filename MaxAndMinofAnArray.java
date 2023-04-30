@@ -9,7 +9,11 @@ public class MaxAndMinofAnArray {
 
         Scanner scn = new Scanner(System.in);
         int N = scn.nextInt();
+<<<<<<< HEAD
         int A[] = new int[N];
+=======
+        int[] A = new int[N];
+>>>>>>> b57b07f (staticSumof1Darray)
 
         for(int i=0; i<A.length; i++){
             A[i] = scn.nextInt();
@@ -18,7 +22,11 @@ public class MaxAndMinofAnArray {
         System.out.println(minArr(A) + " " + maxArr(A));
     }
 
+<<<<<<< HEAD
     public static int minArr(int arr[]){
+=======
+    public static int minArr(int[] arr){
+>>>>>>> b57b07f (staticSumof1Darray)
         int N = arr.length;
         int min = Integer.MAX_VALUE;
 
@@ -30,7 +38,11 @@ public class MaxAndMinofAnArray {
         return min;
     }
 
+<<<<<<< HEAD
     public static int maxArr(int arr[]){
+=======
+    public static int maxArr(int[] arr){
+>>>>>>> b57b07f (staticSumof1Darray)
         int N = arr.length;
         int max = Integer.MIN_VALUE;
 
