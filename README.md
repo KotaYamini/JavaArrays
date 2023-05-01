@@ -21,7 +21,8 @@ Copy The 1D Array into Output Array
 ![image](https://user-images.githubusercontent.com/48117959/235402507-42b3ef4e-9607-4130-bb4c-4bd8fd23f8e8.png)
 
 EvenAndOddElementsInOneDArray
-![image](https://user-images.githubusercontent.com/48117959/235403878-bbfd7f18-970e-46e6-ab85-41aed677bfa4.png)
+![image](https://user-images.githubusercontent.com/48117959/235403953-f6fa529e-829d-46b9-8663-64c3e70b4e01.png)
+
 
 
 
