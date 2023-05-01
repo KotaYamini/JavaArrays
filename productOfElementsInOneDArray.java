@@ -7,8 +7,8 @@ public class productOfElementsInOneDArray {
 
     public static long productOfAllElements(int[] arr){
         long product = 1L;
-        for(int i=0; i<arr.length; i++){
-            product = product*arr[i];
+        for (int j : arr) {
+            product = product * j;
         }
         return  product;
     }
