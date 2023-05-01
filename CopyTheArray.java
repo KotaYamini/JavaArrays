@@ -7,9 +7,7 @@ public class CopyTheArray {
         int[] A = {2,4,5,7,8};
         int X = 1;
         int[] output = solve(A, X);
-        for (int j : output) {
-            System.out.print(j + " ");
-        }
+        for (int j : output) System.out.print(j + " ");
 
     }
 
