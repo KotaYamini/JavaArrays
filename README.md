@@ -23,6 +23,9 @@ Copy The 1D Array into Output Array
 EvenAndOddElementsInOneDArray
 ![image](https://user-images.githubusercontent.com/48117959/235403953-f6fa529e-829d-46b9-8663-64c3e70b4e01.png)
 
+TemperatureDifferenceInOneDArray
+![image](https://user-images.githubusercontent.com/48117959/235405488-3fa10a86-3dc9-4d19-98c1-cd984243ae6e.png)
+
 
 
 
