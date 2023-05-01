@@ -17,4 +17,11 @@ Reverse A 1D array
 Product Of Elements In 1D Array
 ![image](https://user-images.githubusercontent.com/48117959/235397080-097a31ed-6557-4717-a604-832f2f2f2b1b.png)
 
+Copy The 1D Array into Output Array
+![image](https://user-images.githubusercontent.com/48117959/235402507-42b3ef4e-9607-4130-bb4c-4bd8fd23f8e8.png)
+
+EvenAndOddElementsInOneDArray
+![image](https://user-images.githubusercontent.com/48117959/235403878-bbfd7f18-970e-46e6-ab85-41aed677bfa4.png)
+
+
 
