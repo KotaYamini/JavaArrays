@@ -11,4 +11,6 @@ Min And Max in 1D Array
 Frequency Of X in 1D Array
 ![image](https://user-images.githubusercontent.com/48117959/235368234-2b7f3aa2-c46d-432a-8c3c-ace99761e6de.png)
 
+Reverse A 1D array
+![image](https://user-images.githubusercontent.com/48117959/235396037-c6d1f182-c10c-4d61-967b-b9c0a5206b1f.png)
 
