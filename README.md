@@ -38,6 +38,8 @@ PositionOfElementB
 InsertThatElementin1DArray
 ![image](https://user-images.githubusercontent.com/48117959/235492470-3e8a40d0-cce4-4053-a111-240e1634b1df.png)
 
+RemoveThatElementin1DArray
+![image](https://user-images.githubusercontent.com/48117959/235498624-23611020-8e0b-4a36-b2c2-af933772f95a.png)
 
 
 
