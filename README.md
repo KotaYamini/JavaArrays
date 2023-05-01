@@ -26,6 +26,9 @@ EvenAndOddElementsInOneDArray
 TemperatureDifferenceInOneDArray
 ![image](https://user-images.githubusercontent.com/48117959/235405488-3fa10a86-3dc9-4d19-98c1-cd984243ae6e.png)
 
+AverageRainFallInOneDArray
+![image](https://user-images.githubusercontent.com/48117959/235406089-99df106e-2757-4c3b-9edc-4ffc72c3d85a.png)
+
 
 
 
