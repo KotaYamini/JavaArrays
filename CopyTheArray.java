@@ -7,13 +7,13 @@ public class CopyTheArray {
         int[] A = {2,4,5,7,8};
         int X = 1;
         int[] output = solve(A, X);
-        for(int i=0; i<output.length; i++){
-            System.out.print(output[i]+" ");
+        for (int j : output) {
+            System.out.print(j + " ");
         }
 
     }
 
-    public  static  int[] solve(final  int A[], int B){
+    public  static  int[] solve(final  int[] A, int B){
         int N = A.length;
         int[] outArr = new int[N];
 
