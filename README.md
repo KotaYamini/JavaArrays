@@ -32,6 +32,10 @@ AverageRainFallInOneDArray
 CountOfElementsGreaterThanB
 ![image](https://user-images.githubusercontent.com/48117959/235485061-a542b82b-e510-4569-bb6a-d85d376127d0.png)
 
+PositionOfElementB
+![image](https://user-images.githubusercontent.com/48117959/235487034-7e814c10-3f6a-4d46-a09c-0e76e7ccf8ce.png)
+
+
 
 
 
