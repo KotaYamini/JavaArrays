@@ -8,3 +8,7 @@ Sum of 1D Array elements with user input
 Min And Max in 1D Array
 ![image](https://user-images.githubusercontent.com/48117959/235367446-8270de7a-11bb-4136-a0c9-006e3497e686.png)
 
+Frequency Of X in 1D Array
+![image](https://user-images.githubusercontent.com/48117959/235368234-2b7f3aa2-c46d-432a-8c3c-ace99761e6de.png)
+
+
