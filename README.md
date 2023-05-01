@@ -29,6 +29,10 @@ TemperatureDifferenceInOneDArray
 AverageRainFallInOneDArray
 ![image](https://user-images.githubusercontent.com/48117959/235406089-99df106e-2757-4c3b-9edc-4ffc72c3d85a.png)
 
+CountOfElementsGreaterThanB
+![image](https://user-images.githubusercontent.com/48117959/235485061-a542b82b-e510-4569-bb6a-d85d376127d0.png)
+
+
 
 
 
