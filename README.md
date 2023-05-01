@@ -14,3 +14,7 @@ Frequency Of X in 1D Array
 Reverse A 1D array
 ![image](https://user-images.githubusercontent.com/48117959/235396037-c6d1f182-c10c-4d61-967b-b9c0a5206b1f.png)
 
+Product Of Elements In 1D Array
+![image](https://user-images.githubusercontent.com/48117959/235397080-097a31ed-6557-4717-a604-832f2f2f2b1b.png)
+
+
