@@ -35,6 +35,8 @@ CountOfElementsGreaterThanB
 PositionOfElementB
 ![image](https://user-images.githubusercontent.com/48117959/235487034-7e814c10-3f6a-4d46-a09c-0e76e7ccf8ce.png)
 
+InsertThatElementin1DArray
+![image](https://user-images.githubusercontent.com/48117959/235492470-3e8a40d0-cce4-4053-a111-240e1634b1df.png)
 
 
 
