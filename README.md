@@ -52,6 +52,8 @@ int arr[] = new int[5];
  4.0
  5.0
  
+ Note: Java cannot have negative indexing as it will throw  error.
+ 
 sumofStatic1DArray
 ![image](https://user-images.githubusercontent.com/48117959/235366866-c04c7c10-8b69-4197-8f09-33be15fb303a.png)
 
