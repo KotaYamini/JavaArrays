@@ -14,7 +14,7 @@ public class RemoveThat {
             arr[i] = scanner.nextInt();
         }
 
-        int X = scanner.nextInt(); // element
+        int X = scanner.nextInt(); // position
         int index = X-1; // index
 
         for(int j = index; j<N-1; j++){
