@@ -1,4 +1,59 @@
 # JavaArrays
+
+Fixed number of values of same data type.
+Syntax: datatype nameOfVariable[] = new dataType[size];
+1. int[] arr = new int[size];
+2. int []arr = new int[size];
+3. int arr[] = new int[size];
+
+Indexing & Properties:
+----------------------
+1. Indexing  :
+   ----------
+int arr[] = new int[5];
+ => Indexes are always start from 0;
+ => ith index = arr[i]
+ 
+ Access first and last elements: arr[0] & arr[n-1]
+ 
+ Note: There are not heterogeneous arrays in java.
+ 
+ 2. Properties:
+   ------------
+ 1. int arr[] = new int[5];
+    Ex: System.out.print(arr.length); //5
+    
+ 2. By default all the elements are initialized with 0;
+ 
+ Ex: 
+ 1. for(int i=0; i< arr.length; i++){ System.out.println(arr[i]); } 
+ output:
+ 0
+ 0
+ 0
+ 0
+ 0
+ 
+ 2.  float arr[] = new float[5];
+ for(float i=0; i< arr.length; i++){ System.out.println(arr[i]); } 
+ output:
+ 1.0
+ 2.0
+ 3.0
+ 4.0
+ 5.0
+ 
+ 3. double arr[] = new double[5];
+ for(double i=0; i< arr.length; i++){ System.out.println(arr[i]); } 
+ output:
+ 1.0
+ 2.0
+ 3.0
+ 4.0
+ 5.0
+ 
+ Note: Java cannot have negative indexing as it will throw  error.
+ 
 sumofStatic1DArray
 ![image](https://user-images.githubusercontent.com/48117959/235366866-c04c7c10-8b69-4197-8f09-33be15fb303a.png)
 
