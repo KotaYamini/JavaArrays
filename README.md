@@ -1,7 +1,7 @@
 # JavaArrays
 
 Fixed number of values of same data tpe
-Syntax: datatype nameOfVariable = valueOfVariable
+Syntax: datatype nameOfVariable[] = new dataType[size]
 1. int[] arr = new int[size];
 2. int []arr = new int[size];
 3.int arr[] = new int[size];
