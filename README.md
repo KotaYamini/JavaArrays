@@ -8,6 +8,7 @@ Syntax: datatype nameOfVariable[] = new dataType[size];
 
 Indexing & Properties:
 ----------------------
+
 1. Indexing  :
    ----------
 int arr[] = new int[5];
