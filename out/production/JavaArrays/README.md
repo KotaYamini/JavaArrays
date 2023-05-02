@@ -8,6 +8,7 @@ Syntax: datatype nameOfVariable[] = new dataType[size];
 
 Indexing & Properties:
 ----------------------
+
 1. Indexing  :
    ----------
 int arr[] = new int[5];
@@ -95,6 +96,10 @@ InsertThatElementin1DArray
 
 RemoveThatElementin1DArray
 ![image](https://user-images.githubusercontent.com/48117959/235498624-23611020-8e0b-4a36-b2c2-af933772f95a.png)
+
+ReverseArrayToGetNewArray
+![image](https://user-images.githubusercontent.com/48117959/235577041-c9c6f723-0f3e-4e71-a981-04a03bfa3ba8.png)
+
 
 
 
