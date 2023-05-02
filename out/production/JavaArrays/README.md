@@ -100,6 +100,10 @@ RemoveThatElementin1DArray
 ReverseArrayToGetNewArray
 ![image](https://user-images.githubusercontent.com/48117959/235577041-c9c6f723-0f3e-4e71-a981-04a03bfa3ba8.png)
 
+SwappingOfTwoElements In One Dimension Array
+![image](https://user-images.githubusercontent.com/48117959/235737384-ce9a71aa-ef2b-466b-a544-ed5401622b64.png)
+
+
 
 
 
