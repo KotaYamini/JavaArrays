@@ -106,5 +106,6 @@ SwappingOfTwoElements In One Dimension Array
 ReverseAPartOfArray In One Dimension Array
 ![image](https://user-images.githubusercontent.com/48117959/235743616-1bdd006a-e549-4201-8c0c-d7b5e198cd40.png)
 
-
+FrequencyOfElements In One Dimension Array
+![image](https://user-images.githubusercontent.com/48117959/236723100-404cd094-df1c-42d7-bd2a-e54f0660ee6e.png)
 
