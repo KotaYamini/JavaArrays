@@ -20,6 +20,7 @@ public class OddNegativeIncrement {
                 ans.add(ele);
             }
         }
+        Collections.sort(ans);
         System.out.println(ans);
     }
 }
