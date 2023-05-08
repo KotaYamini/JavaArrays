@@ -1,8 +1,10 @@
 package beginnerContestThree;
 
-import java.util.Scanner;
-
-public class FrequencyOfElementsinOneDArray {
+/*
+* Given an integer array A of size N return count of
+elements which occurs more than one time in array
+* */
+public class FrequencyOfElementsinOneDArrayApp1 {
     public static void main(String[] args) {
         int []A = {1,2,3,4,4,4,4,2};
         int countOfElements = 0;
