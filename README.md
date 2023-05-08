@@ -109,3 +109,7 @@ ReverseAPartOfArray In One Dimension Array
 FrequencyOfElements In One Dimension Array
 ![image](https://user-images.githubusercontent.com/48117959/236723100-404cd094-df1c-42d7-bd2a-e54f0660ee6e.png)
 
+OddNegativeIncrement In Dynamic Array
+![image](https://user-images.githubusercontent.com/48117959/236728465-b1f6cbd3-064b-4444-9f1c-492464987547.png)
+
+
