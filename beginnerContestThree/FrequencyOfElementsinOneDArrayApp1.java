@@ -1,8 +1,6 @@
 package beginnerContestThree;
 
-import java.util.Scanner;
-
-public class FrequencyOfElementsinOneDArray {
+public class FrequencyOfElementsinOneDArrayApp1 {
     public static void main(String[] args) {
         int []A = {1,2,3,4,4,4,4,2};
         int countOfElements = 0;
