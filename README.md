@@ -112,4 +112,6 @@ FrequencyOfElements In One Dimension Array
 OddNegativeIncrement In Dynamic Array
 ![image](https://user-images.githubusercontent.com/48117959/236728465-b1f6cbd3-064b-4444-9f1c-492464987547.png)
 
+Max Occurrence of character in a String
+![image](https://github.com/KotaYamini/JavaArrays/assets/48117959/a6be0f6d-4216-4e04-b195-4096a82048de)
 
