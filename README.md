@@ -115,3 +115,7 @@ OddNegativeIncrement In Dynamic Array
 Max Occurrence of character in a String
 ![image](https://github.com/KotaYamini/JavaArrays/assets/48117959/a6be0f6d-4216-4e04-b195-4096a82048de)
 
+Sum of [Max-Min] of Each 1D Array from a 2D Array
+![image](https://github.com/KotaYamini/JavaArrays/assets/48117959/5ab7879a-24d8-4a7c-8b96-ea268cab8331)
+
+
