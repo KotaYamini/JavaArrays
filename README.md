@@ -118,4 +118,5 @@ Max Occurrence of character in a String
 Sum of [Max-Min] of Each 1D Array from a 2D Array
 ![image](https://github.com/KotaYamini/JavaArrays/assets/48117959/5ab7879a-24d8-4a7c-8b96-ea268cab8331)
 
-
+Max Product Pair in 1D Array
+![image](https://github.com/KotaYamini/JavaArrays/assets/48117959/32b9e1f5-429f-40f5-9b07-22761c706921)
